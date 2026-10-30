@@ -4,7 +4,8 @@ We design, build and grow websites for businesses in Plano, Dallas and across Te
 
 **Website:** [webdesignerfactory.com](https://webdesignerfactory.com/)  
 **Plano:** 101 E Park Blvd Ste 600, Plano, TX 75074  
-**Dallas:** 4514 Cole Ave Suite 600, Dallas, TX 75205
+**Dallas:** 4514 Cole Ave Suite 600, Dallas, TX 75205  
+**Company hub:** [Web Designer Factory on Google Sites](https://sites.google.com/webdesignerfactory.com/webdesignerfactory)
 
 ## Free tools we maintain
 
